@@ -4,11 +4,11 @@ Below is detail instructions on how to move our project to new model
 
 ## Push Eclipse Project to Github
 How to
-[Push Eclipse Project Github](push_eclipse_github.md)  
+[push Eclipse Project Github](push_eclipse_github.md)  
 
 ## Pull Eclipse Project from Github
 How to 
-[Pull Eclipse Project Github](pull_eclipse_github.md)
+[pull Eclipse Project Github](pull_eclipse_github.md)
 
 ## Download only Java file
 We are able to keep all project files inside the container.

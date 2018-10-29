@@ -1,4 +1,4 @@
-# How to pull Github project to Github
+# How to pull Eclipse project to Github
 
 1. Select File → Import → Git → Projects from Git. Click **Next**.
 2. Fill in *URI*, *User*, and *Password*. Click **Next**.
